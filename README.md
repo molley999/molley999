@@ -5,7 +5,7 @@
 
 - 💻 Data Scientist [@TransportForLondon](https://tfl.gov.uk/) in London UK
 - 🛠️ I build cool stuff with: `Python` `SQL` `Azure` `VScode` `Databricks` ... 
-- ✍️ I write technical blogs on [Medium](https://medium.com/@egorhowell) and [Substack](https://substack.com/@qianyuchen?utm_source=user-menu) 
+- ✍️ I write technical blogs on [Medium](https://medium.com/@molleychen) and [Substack](https://substack.com/@qianyuchen?utm_source=user-menu) 
 - ⚡ I enjoy: jogging, reading, singing, sleeping  
 - 🧑‍🎓 PhD in Data Science
 
