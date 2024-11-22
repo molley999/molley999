@@ -1,22 +1,11 @@
-# Hi there, I'm Qianyu 👋
 
-💻 Data Scientist @TransportforLondon  
-🛠️ I build cool stuff with: Python, SQL, Data Science 
-✍️ I share insights on Blog, Medium, and LinkedIn  
-⚡ I enjoy: jogging, reading, singing, sleeping  
-🧑‍🎓 PhD in Data Science Applied to Transport, MSc in Signal Processing, BEng in Electronic Engineering
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@molleychen)
+[<img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" />](https://substack.com/@qianyuchen?utm_source=user-menu)
 
----
 
-### 🌟 Check These Out
-- **Newsletter**: [Subscribe here](link)
+- 💻 Data Scientist [@TransportForLondon](https://tfl.gov.uk/) in London UK
+- 🛠️ I build cool stuff with: `Python` `SQL` `Azure` `VScode` `Databricks` ... 
+- ✍️ I write technical blogs on [Medium](https://medium.com/@egorhowell) and [Substack](https://substack.com/@qianyuchen?utm_source=user-menu) 
+- ⚡ I enjoy: jogging, reading, singing, sleeping  
+- 🧑‍🎓 PhD in Data Science
 
----
-
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-### 🔗 Let's Connect
-- [Twitter](https://twitter.com/yourhandle)  
-- [LinkedIn](https://linkedin.com/in/yourhandle)  
-- [Blog](https://yourblog.com)
